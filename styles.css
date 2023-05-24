@@ -1,5 +1,16 @@
 body {
-    background-color: crimson;
+    background-color: crimson; /* QUESTION: if width of body is 500px, why does the background-color still cover the whole page? */
     color: white;
     text-align: center;
+    /* width: 500px; - removing this, idk what the default value is for dimensions, but it default to a certain size relative to the view port*/
+    border-color: white; /* added border to show that even if the width is 500px for body, the background color still covers the whole page */
+    border-style: solid;
+    border-width: 10px;
 }
+
+html {
+    background-color: antiquewhite; /* added background-color to html element to see what happens if background-color for body is defined */
+} /* it turns out if body defined background color, and html wasn't, it covers also html background color */
+
+
+
