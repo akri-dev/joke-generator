@@ -23,3 +23,5 @@ console.log(randomInteger)
 
 var randomJoke = jokes[randomInteger]
 console.log(randomJoke)
+
+document.getElementById("joke-paragraph").innerText = randomJoke // allows connection of JS to frontend
