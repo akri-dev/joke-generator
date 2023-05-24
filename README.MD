@@ -8,4 +8,4 @@ Checkout the course <a href="https://skl.sh/45pgA2j">here</a>.:raised_hands:
 
 Description: This class focuses on the basic understanding of how a whole front-end web system or app functions at a fundamental level. Added in this repository are comments to consider getting curious on how to debug and understand code better
 
-P.S. I suggest to understand the basics of debugging, console logging, comments, version control, and developer tools rather than understanding everything. A good habit of feedback, questioning / , and applying the concepts right away is better than trying to understand it all.
+P.S. I suggest to understand the basics of debugging, console logging, comments, version control, and developer tools rather than understanding everything. A good habit of feedback, questioning / getting curious, and applying the concepts right away is better than trying to understand it all. Also try to use design tools.
